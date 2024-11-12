@@ -1,14 +1,14 @@
 # Data-Diggers-Final
 
-Team Name: The Data Diggers
+**Team Name**: The Data Diggers
 
-Aayush Shah: AKS290@pitt.edu
+**Aayush Shah**: AKS290@pitt.edu
 
-Kevin Dong: KED203@pitt.edu
+**Kevin Dong**: KED203@pitt.edu
 
-Pari Patel: PPP22@pitt.edu
+**Pari Patel**: PPP22@pitt.edu
 
-**OVERVIEW**: This respository contains the python code and datasets necessary in order to determine the "best" neighborhood in Pittsbrugh based on our overall metric and research within three submetrics, those being, 311 requests, fire incidents, and arrest records
+**OVERVIEW**: This respository contains the python code and datasets necessary in order to determine the "best" neighborhood in Pittsburgh based on our overall metric and research within three submetrics, those being, 311 requests, fire incidents, and arrest records
 
 **Data Set 1**: https://data.wprdc.org/dataset/311-data/resource/29462525-62a6-45bf-9b5e-ad2e1c06348d
 This first data contains a record of "311" or non emergency calls made for information, services, or reporting an issue to the government
