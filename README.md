@@ -4,9 +4,9 @@
 
 **Team Name**: The Data Diggers
 
-**Aayush Shah**: AKS290@pitt.edu
-
 **Kevin Dong**: KED203@pitt.edu
+
+**Aayush Shah**: AKS290@pitt.edu
 
 **Pari Patel**: PPP22@pitt.edu
 
