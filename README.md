@@ -23,5 +23,4 @@ This data set contains records of fire incidents around various neighborhoods in
 
 **Data Set 3 (Pari Patel)**: https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
 
-This data set contains the records of various arrests around Pittsburgh
-
+This data set contains the records of various arrests around Pittsburgh. It spans over the past 8 years and includes the neighborhood and the reason of the arrest. 
