@@ -12,9 +12,8 @@
 
 **OVERVIEW**: This repository contains the Python code and datasets necessary to determine the "best" neighborhood in Pittsburgh based on our overall metric and research within three sub-metrics, those being 311 requests, fire incidents, and arrest records
 
-**Data Set 1 (Aayush Shah)**: 
+**Data Set 1 (Aayush Shah)**: https://data.wprdc.org/dataset/311-data/resource/29462525-62a6-45bf-9b5e-ad2e1c06348d
 
-https://data.wprdc.org/dataset/311-data/resource/29462525-62a6-45bf-9b5e-ad2e1c06348d
 The first data contains a record of "311" or non-emergency calls made for information, services, or reporting an issue to the government
 
 
